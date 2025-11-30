@@ -1,0 +1,26 @@
+- name: Polo Chau
+  position: Professor
+  group: School of Computational Science and Engineering
+  institution: Georgia Institute of Technology
+  location: Atlanta, GA, USA
+  phd: true
+  website: "cc.gatech.edu/~dchau/"
+  url: "https://cc.gatech.edu/~dchau/"
+
+- name: Mark Riedl
+  position: Professor
+  group: School of Interactive Computing
+  institution: Georgia Institute of Technology
+  location: Atlanta, GA, USA
+  phd: true
+  website: "eilab.gatech.edu/mark-riedl.html"
+  url: "https://eilab.gatech.edu/mark-riedl.html"
+
+- name: Annabel Rothschild
+  position: Assistant Professor
+  group: Computer Science
+  institution: Bard College
+  location: Annandale-on-Hudson, NY, USA
+  phd: true
+  website: "annabelrothschild.com/"
+  url: "https://annabelrothschild.com/"

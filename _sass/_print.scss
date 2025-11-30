@@ -1,0 +1,43 @@
+@media print {
+
+  i {
+    // remove BlinkMacSystemFont because of Chrome bug when printing
+    // https://bugs.chromium.org/p/chromium/issues/detail?id=1091628
+    // https://bugs.chromium.org/p/chromium/issues/detail?id=1018581&q=BlinkMacSystemFont&colspec=ID%20Pri%20M%20Stars%20ReleaseBlock%20Component%20Status%20Owner%20Summary%20OS%20Modified
+    font-family: -apple-system, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+  }
+
+  // Make text much darker for better print readability
+  .cv-author {
+    color: #000 !important;
+  }
+
+  .cv-description {
+    color: #333 !important;
+  }
+
+  .cv-left-date-article {
+    color: #333 !important;
+  }
+
+  .equal-contribution {
+    color: #555 !important;
+  }
+
+  // Keep button colors consistent
+  .pub-misc a {
+    color: #00449e !important;
+    background-color: #ffffff !important;
+  }
+
+  // Make award color prettier for print (avoid muddy yellow)
+  .cv-award {
+    color: #f59e0b !important;
+  }
+
+  // Make stats color a complementary orange
+  .pub-stat {
+    color: #ea580c !important;
+  }
+
+}

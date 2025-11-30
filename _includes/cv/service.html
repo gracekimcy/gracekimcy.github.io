@@ -1,0 +1,6 @@
+<div class="cv-left-date">{{ service.years }}</div>
+<div><b>{{ service.position }}</b></div>
+<div><i><a href="{{ service.institution-url }}">{{ service.institution }}</a>, {{ service.location }}</i></div>
+<div class="cv-description"><span style="color: #414141;">{% if service.title-url %}<a href="{{ service.title-url }}">{{ service.title }}</a>{% else %}{{ service.title }}{% endif %}</span></div>
+<div class="cv-description">{{ service.description }}</div>
+<div class="cv-spacer"></div>

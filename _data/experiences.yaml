@@ -1,0 +1,50 @@
+- institution: Georgia Institute of Technology
+  location: "Atlanta, GA"
+  position: Research Assistant (now Graduate Assistant)
+  group: Polo Club of Data Science
+  year: "Jan. 2024 — Present"
+  advisors: 
+    - Duen Horng (Polo) Chau
+  description: "Study the intersection of machine learning, human-computer interaction, and data visualization. Published at EMNLP 2025 and IEEE VIS 2024."
+  institution-url: http://gatech.edu
+  group-url: https://poloclub.github.io/
+  type: academic
+
+- institution: Georgia Institute of Technology
+  location: "Atlanta, GA"
+  position: Research Assistant
+  group: Entertainment Intelligence and Human-Centered AI Labs
+  year: "May 2025 — Present"
+  mentors:
+    - Mark Riedl
+  description: "Study explainable AI and mechanistic interpretability."
+  institution-url: http://gatech.edu
+  group-url: https://eilab.gatech.edu/mark-riedl.html
+  type: academic
+
+- institution: CISPA Helmholtz Center for Information Security
+  location: "Saarbrücken, Germany"
+  position: DAAD RISE Research Intern
+  group: SprintML Lab
+  year: "May 2024 — Aug. 2024"
+  advisors: 
+    - Adam Dziedzic
+    - Franziska Boenisch
+  description: "Studied memorization in CLIP models. Published at ICLR 2025."
+  institution-url: https://cispa.de/en
+  group-url: https://sprintml.com/
+  type: academic
+
+- institution: Georgia Institute of Technology
+  location: "Atlanta, GA"
+  position: Research Assistant
+  group: Culture and Technology Lab
+  year: "Aug. 2023 — Oct. 2024"
+  mentors:
+    - Annabel Rothschild
+  advisors:
+    - Betsy DiSalvo
+  description: "Studied critical data studies and responsible AI. Published at AIES 2024."
+  institution-url: http://gatech.edu
+  group-url: https://sites.gatech.edu/catlab/
+  type: academic

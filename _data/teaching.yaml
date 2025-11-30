@@ -1,0 +1,10 @@
+- institution: Georgia Institute of Technology
+  position: Teaching Assistant
+  location: "Atlanta, GA"
+  year: Spring 2023
+  class: "Object-Oriented Programming (CS 1331)"
+  instructor: Richard Landry
+  description: "Led weekly recitation classes for 50 students, held weekly office hours, and created and graded course materials for a course with 800 students enrolled."
+  institution-url: http://gatech.edu
+  class-url: https://oscar.gatech.edu/bprod/bwckctlg.p_disp_course_detail?cat_term_in=201202&subj_code_in=CS&crse_numb_in=1331
+  ta: true

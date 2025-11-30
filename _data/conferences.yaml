@@ -1,0 +1,14 @@
+- name: "IEEE Visualization Conference (VIS) 2025"
+  year: "2025"
+
+- name: "AAAI Conference on Artificial Intelligence (AAAI) 2025"
+  description: 'For "Transformer Explainer: Interactive Learning of Text-Generative Models"'
+  year: "2025"
+
+- name: "AAAI/ACM Conference on AI, Ethics, and Society (AIES) 2024"
+  description: "For \"What's Your Stake in Sustainability of AI?: An Informed Insider's Guide\""
+  year: "2024"
+
+- name: "IEEE Visualization Conference (VIS) 2024"
+  description: 'For "Transformer Explainer: Interactive Learning of Text-Generative Models"'
+  year: "2024"

@@ -1,0 +1,19 @@
+{
+  "name": "gracekimcy.github.io",
+  "version": "1.0.0",
+  "description": "Grace C. Kim's website.",
+  "main": "index.js",
+  "scripts": {
+    "start": "bundle exec jekyll serve --livereload"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gracekimcy/gracekimcy.github.io.git"
+  },
+  "author": "Grace C. Kim",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gracekimcy/gracekimcy.github.io/issues"
+  },
+  "homepage": "https://github.com/gracekimcy/gracekimcy.github.io#readme"
+}

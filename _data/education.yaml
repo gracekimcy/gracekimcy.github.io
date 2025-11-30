@@ -1,0 +1,36 @@
+- degree: "M.S. in Computer Science"
+  institution: Georgia Institute of Technology
+  location: "Atlanta, GA"
+  advisor: Duen Horng (Polo) Chau
+  co-advisor: Mark Riedl
+  years: "Aug. 2025 —"
+  years-extra: "May 2026"
+  institution-url: https://www.gatech.edu/
+  description:
+    - Concentration in Machine Learning # "GPA: 4.00/4.00"
+  awards:
+    - Stamps President's Scholarship (full-ride merit scholarship)
+
+- degree: "B.S. in Computer Science"
+  years: "Aug. 2022 —"
+  years-extra: "May 2025"
+  institution: Georgia Institute of Technology
+  location: "Atlanta, GA"
+  advisor: Duen Horng (Polo) Chau
+  co-advisor: "Betsy DiSalvo (Mentor: Annabel Rothschild)"
+  # thesis: "3D Printing the Trefoil Knot and its Pages"
+  # thesis-link: ../projects/3d-printing-the-trefoil-knot-and-its-pages/
+  # thesis-pdf: ../papers/fred-hohman-undergrad-thesis.pdf
+  description: 
+    - "Concentrations in Artificial Intelligence and Theory, Overall GPA: 3.9/4.0, Highest Honors"
+  institution-url: https://www.gatech.edu/
+  awards:
+    - Stamps President's Scholarship (full-ride merit scholarship)
+
+- degree: "Berlin Summer Program"
+  years: "Summer 2023"
+  institution: Technische Universität Berlin
+  location: "Germany"
+  description: 
+    - "Study abroad program by Georgia Tech College of Computing"
+  institution-url: https://www.tu.berlin/en/
