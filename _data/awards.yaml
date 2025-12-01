@@ -1,8 +1,8 @@
 - name: "Stamps President's Scholarship, Georgia Tech"
-  description: 4-year full-ride merit scholarship awarded to the top 1% of applicants (40 students) to Georgia Tech
+  description: 4-year full-ride merit scholarship with $15,000 in extracurricular funding awarded to the top 1% of applicants (40 students) to Georgia Tech
   year: 2022
 
-- name: "Best Submission, VISxAI Workshop at IEEE VIS"
+- name: "Best Submission, Visualization for AI Explainability at IEEE VIS"
   description: 'For Transformer Explainer'
   year: 2025
 
@@ -19,7 +19,7 @@
   year: 2024
 
 - name: "DAAD RISE Scholarship, German Federal Foreign Office"
-  description: Selected as one of 320 scholarship recipients out of 2,358 for research in Germany
+  description: Selected as one of 320 scholarship recipients out of 2,358 applicants to conduct a research internship in Germany
   year: 2024
 
 # - name: Best Paper, Honorable Mention at ACM CHI Conference
