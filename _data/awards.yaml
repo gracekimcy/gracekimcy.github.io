@@ -2,24 +2,24 @@
   description: 4-year full-ride merit scholarship with $15,000 in extracurricular funding awarded to the top 1% of applicants (40 students) to Georgia Tech
   year: 2022
 
-- name: "Best Submission, Visualization for AI Explainability at IEEE VIS"
-  description: 'For Transformer Explainer'
-  year: 2025
-
-- name: "President's Undergraduate Research Awards Travel Award, Georgia Tech"
-  description: 'For "Transformer Explainer: Interactive Learning of Text-Generative Models"'
-  year: 2025
-
 - name: "Best Poster, IEEE VIS"
   description: 'For "Transformer Explainer: Interactive Learning of Text-Generative Models"'
   year: 2024
 
-- name: "President's Undergraduate Research Awards Travel Award, Georgia Tech"
-  description: "For \"What's Your Stake in Sustainability of AI?: An Informed Insider's Guide\""
-  year: 2024
+- name: "Best Submission, Workshop on Visualization for AI Explainability at IEEE VIS"
+  description: 'For Transformer Explainer'
+  year: 2025
 
 - name: "DAAD RISE Scholarship, German Federal Foreign Office"
   description: Selected as one of 320 scholarship recipients out of 2,358 applicants to conduct a research internship in Germany
+  year: 2024
+
+- name: "President's Undergraduate Research Awards Travel Award, Georgia Tech"
+  description: 'For "Transformer Explainer: Interactive Learning of Text-Generative Models"'
+  year: 2025
+
+- name: "President's Undergraduate Research Awards Travel Award, Georgia Tech"
+  description: "For \"What's Your Stake in Sustainability of AI?: An Informed Insider's Guide\""
   year: 2024
 
 # - name: Best Paper, Honorable Mention at ACM CHI Conference
