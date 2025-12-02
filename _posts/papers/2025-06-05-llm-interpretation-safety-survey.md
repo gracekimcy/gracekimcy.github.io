@@ -12,7 +12,7 @@ authors:
   - Mansi Phute
   - Duen Horng (Polo) Chau
 venue: Conference on Empirical Methods in Natural Language Processing
-venue-shorthand: EMNLP
+venue-shorthand: EMNLP Main
 year: 2025
 url: /papers/llm-interpretation-safety-survey
 pdf: https://arxiv.org/abs/2506.05451
