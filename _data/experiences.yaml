@@ -5,7 +5,7 @@
   year: "Jan. 2024 — Present"
   advisors: 
     - Duen Horng (Polo) Chau
-  description: "Study the intersection of machine learning, human-computer interaction, and data visualization. Published at EMNLP 2025 and IEEE VIS 2024."
+  description: "Study the intersection of machine learning, human-computer interaction, and data visualization. Published at EMNLP 2025, AAAI 2025, and IEEE VIS 2024."
   institution-url: http://gatech.edu
   group-url: https://poloclub.github.io/
   type: academic
@@ -15,7 +15,7 @@
   position: Research Assistant
   group: Entertainment Intelligence and Human-Centered AI Labs
   year: "May 2025 — Present"
-  mentors:
+  advisors:
     - Mark Riedl
   description: "Study explainable AI and mechanistic interpretability."
   institution-url: http://gatech.edu

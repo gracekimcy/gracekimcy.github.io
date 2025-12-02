@@ -4,7 +4,7 @@
 
 {% if degree.thesis %}
 	<div class="cv-description">
-		Thesis: <a href="{{ degree.thesis-link }}"><i>{{ degree.thesis }}</i></a>
+		Thesis: {% if degree.thesis-link %}<a href="{{ degree.thesis-link }}">{% endif %}<i>{{ degree.thesis }}</i>{% if degree.thesis-link %}</a>{% endif %}
 	</div>
 {% endif %}
 
