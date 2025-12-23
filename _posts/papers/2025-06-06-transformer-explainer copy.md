@@ -18,6 +18,7 @@ equal-contribution:
   - Grace C. Kim
   - Alexander Karpekov
 venue: IEEE Visualization Conference (VIS Poster). 2024., AAAI Conference on Artificial Intelligence (AAAI Demo). 2025.
+venue-shorthand: VIS 2024 Poster, AAAI 2025 Demo
 # year: 2024
 # url: /papers/transformer-explainer
 demo: https://poloclub.github.io/transformer-explainer/
