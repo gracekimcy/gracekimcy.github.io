@@ -18,7 +18,7 @@ selected: false
 figure: /images/papers/25-memorization-clip.png
 image: /images/papers/25-memorization-clip.png
 featured: true
-feature-order: 1
+feature-order: 3
 feature-title: CLIP Memorization
 feature-description: Quantifying and mitigating memorization in CLIP models
 bibtex: |-

@@ -1,26 +1,43 @@
-- name: "Stamps President's Scholarship, Georgia Tech"
-  description: 4-year full-ride merit scholarship with $15,000 in extracurricular funding awarded to the top 0.1% of applicants (40 students) to Georgia Tech
-  year: 2022
+- name: "Donald V. Jackson Fellowship, Georgia Tech College of Computing"
+  description: 'Awarded to well-rounded, first-year Master’s student who embodies values of academic excellence and leadership'
+  year: 2026
+
+- name: "Fulbright Scholarship (Research Award), US Department of State (awarded; declined to accept NSF GRFP)"
+  description: 'Selected as one of 8 awardees for the US-Korea Presidential STEM Initiative Award'
+  year: 2026
+
+- name: "Graduate Research Fellowship (GRFP), National Science Foundation"
+  description: '5-year fellowship providing 3 years of financial support for independent research'
+  year: 2026 — 2031
+
+- name: "Vamasundari Devi Fellowship, MIT EECS"
+  description: '1-semester fellowship providing full financial support'
+  year: 2026
+
+- name: "Best Submission, Workshop on Visualization for AI Explainability at IEEE VIS"
+  description: 'For "Transformer Explainer: Learning LLM Transformers with Interactive Visual Explanation and Experimentation"'
+  year: 2025
+
+- name: "DAAD RISE Scholarship, German Federal Foreign Office"
+  description: Selected as one of 320 awardees from 2,358 applicants to conduct a summer research internship in Germany
+  year: 2024
+
+- name: "President's Undergraduate Research Awards Travel Award, Georgia Tech"
+  description: 'For "Transformer Explainer: Interactive Learning of Text-Generative Models"'
+  year: 2025
 
 - name: "Best Poster, IEEE VIS"
   description: 'For "Transformer Explainer: Interactive Learning of Text-Generative Models"'
   year: 2024
 
-- name: "Best Submission, Workshop on Visualization for AI Explainability at IEEE VIS"
-  description: 'For Transformer Explainer'
-  year: 2025
-
-- name: "DAAD RISE Scholarship, German Federal Foreign Office"
-  description: Selected as one of 320 scholarship recipients from 2,358 applicants to conduct a summer research internship in Germany
-  year: 2024
-
-- name: "President's Undergraduate Research Awards Travel Award, Georgia Tech"
-  description: 'For "Transformer Explainer: Interactive Learning of Text-Generative Models"'
-  year: 2025
-
 - name: "President's Undergraduate Research Awards Travel Award, Georgia Tech"
   description: "For \"What's Your Stake in Sustainability of AI?: An Informed Insider's Guide\""
   year: 2024
+
+- name: "Stamps President's Scholarship, Georgia Tech"
+  description: 4-year full-ride merit scholarship with $15,000 in extracurricular funding awarded to the top 0.1% of applicants (40 students) to Georgia Tech
+  year: 2022 — 2026
+
 
 # - name: Best Paper, Honorable Mention at ACM CHI Conference
 #   description: 'For "Exploring Empty Spaces: Human-in-the-Loop Data Augmentation"'

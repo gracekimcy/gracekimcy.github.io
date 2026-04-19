@@ -20,7 +20,7 @@ selected: false
 figure: /images/papers/25-llm-interpretation-safety-survey.png
 image: /images/papers/25-llm-interpretation-safety-survey.png
 featured: true
-feature-order: 1
+feature-order: 2
 feature-title: LLM Interpretability x Safety
 feature-description: Survey on LLM interpretation and safety
 bibtex: |-

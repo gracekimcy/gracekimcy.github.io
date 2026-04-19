@@ -1,11 +1,11 @@
 - institution: Georgia Institute of Technology
   location: "Atlanta, GA"
-  position: Research Assistant (now Graduate Assistant)
+  position: Research Assistant
   group: Polo Club of Data Science
   year: "Jan. 2024 — Present"
   advisors: 
     - Duen Horng (Polo) Chau
-  description: "Study the intersection of machine learning, human-computer interaction, and data visualization. Published at EMNLP 2025 Main, AAAI 2025 Demo, and IEEE VIS 2024 Poster."
+  description: "Study the intersection of machine learning, human-computer interaction, and data visualization."
   institution-url: http://gatech.edu
   group-url: https://poloclub.github.io/
   type: academic
@@ -30,7 +30,7 @@
   advisors: 
     - Adam Dziedzic
     - Franziska Boenisch
-  description: "Studied memorization in CLIP models. Published at ICLR 2025."
+  description: "Studied memorization in CLIP models."
   institution-url: https://cispa.de/en
   group-url: https://sprintml.com/
   type: academic
@@ -44,7 +44,7 @@
     - Annabel Rothschild
   advisors:
     - Betsy DiSalvo
-  description: "Studied critical data studies and responsible AI. Published at AIES 2024."
+  description: "Studied critical data studies and responsible AI."
   institution-url: http://gatech.edu
   group-url: https://sites.gatech.edu/catlab/
   type: academic

@@ -34,7 +34,7 @@ selected: false
 figure: /images/papers/24-transformer-explainer.gif
 image: /images/papers/24-transformer-explainer.gif
 featured: true
-feature-order: 4
+feature-order: 1
 feature-title: Transformer Explainer
 feature-description: Interactive visualization tool for Transformer-based LLMs
 bibtex: |-

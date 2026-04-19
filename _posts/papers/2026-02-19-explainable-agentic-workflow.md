@@ -1,0 +1,41 @@
+---
+layout: paper
+id: explainable-agentic-workflow
+categories: papers
+permalink: papers/explainable-agentic-workflow
+title: "Counterfactual Explanations for Agentic Workflows"
+authors: 
+  - Madhuri Singh
+  - Grace C. Kim
+  - Mika Okamoto
+  - Aarushi Ammavajjala
+  - Amal Alabdulkarim
+  - Gennie Mansi
+  - Mark O. Riedl
+equal-contribution:
+  - Madhuri Singh
+  - Grace C. Kim
+  - Mika Okamoto
+venue: Human-Centered Explainable AI workshop at CHI 2026
+venue-shorthand: HCXAI
+year: 2026
+pdf: https://github.com/eilab-gt/eilab-gt.github.io/blob/main/pubs/Singh2026Introspective.pdf
+selected: false
+figure:
+image:
+featured: false
+feature-order: 
+feature-title: 
+feature-description: 
+bibtex: |-
+
+  @misc{singh2026introspective,
+      title={Counterfactual Explanations for Agentic Workflows}, 
+      author={Madhuri Singh and Grace C. Kim and Mika Okamoto and Aarushi Ammavajjala and Amal Alabdulkarim and Gennie Mansi and Mark O. Riedl},
+      year={2026},
+      url={https://github.com/eilab-gt/eilab-gt.github.io/blob/main/pubs/Singh2026Introspective.pdf}, 
+  }
+  
+---
+
+Multi-modal models, such as CLIP, have demonstrated strong performance in aligning visual and textual representations, excelling in tasks like image retrieval and zero-shot classification. Despite this success, the mechanisms by which these models utilize training data, particularly the role of memorization, remain unclear. In uni-modal models, both supervised and self-supervised, memorization has been shown to be essential for generalization. However, it is not well understood how these findings would apply to CLIP, which incorporates elements from both supervised learning via captions that provide a supervisory signal similar to labels, and from self-supervised learning via the contrastive objective. To bridge this gap in understanding, we propose a formal definition of memorization in CLIP (CLIPMem) and use it to quantify memorization in CLIP models. Our results indicate that CLIP's memorization behavior falls between the supervised and self-supervised paradigms, with "mis-captioned" samples exhibiting highest levels of memorization. Additionally, we find that the text encoder contributes more to memorization than the image encoder, suggesting that mitigation strategies should focus on the text domain. Building on these insights, we propose multiple strategies to reduce memorization while at the same time improving utility--something that had not been shown before for traditional learning paradigms where reducing memorization typically results in utility decrease.
