@@ -16,7 +16,7 @@ equal-contribution:
   - Madhuri Singh
   - Grace C. Kim
   - Mika Okamoto
-venue: Human-Centered Explainable AI workshop at CHI 2026
+venue: Human-Centered Explainable AI Workshop at CHI 2026
 venue-shorthand: HCXAI
 year: 2026
 pdf: https://github.com/eilab-gt/eilab-gt.github.io/blob/main/pubs/Singh2026Introspective.pdf
