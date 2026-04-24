@@ -6,7 +6,7 @@
   description: 'Selected as one of 8 awardees for the US-Korea Presidential STEM Initiative Award'
   year: 2026
 
-- name: "Graduate Research Fellowship (GRFP), National Science Foundation"
+- name: "Graduate Research Fellowship (GRFP), NSF"
   description: '5-year fellowship providing 3 years of financial support for independent research'
   year: 2026 — 2031
 
@@ -20,6 +20,10 @@
 
 - name: "DAAD RISE Scholarship, German Federal Foreign Office"
   description: Selected as one of 320 awardees from 2,358 applicants to conduct a summer research internship in Germany
+  year: 2024
+
+- name: "REU Scholarship, NSF (awarded; declined to accept DAAD RISE)"
+  description: Selected to participate in NSF research experience for undergraduates (REU)
   year: 2024
 
 - name: "President's Undergraduate Research Travel Award, Georgia Tech"
