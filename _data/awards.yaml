@@ -18,6 +18,10 @@
   description: 'For "Transformer Explainer: Learning LLM Transformers with Interactive Visual Explanation and Experimentation"'
   year: 2025
 
+- name: "President's Undergraduate Research Travel Award, Georgia Tech"
+  description: 'For "Transformer Explainer: Interactive Learning of Text-Generative Models"'
+  year: 2025
+
 - name: "DAAD RISE Scholarship, German Federal Foreign Office"
   description: Selected as one of 320 awardees from 2,358 applicants to conduct a summer research internship in Germany
   year: 2024
@@ -25,10 +29,6 @@
 - name: "REU Scholarship, NSF (awarded; declined to accept DAAD RISE)"
   description: Selected to participate in NSF research experience for undergraduates (REU)
   year: 2024
-
-- name: "President's Undergraduate Research Travel Award, Georgia Tech"
-  description: 'For "Transformer Explainer: Interactive Learning of Text-Generative Models"'
-  year: 2025
 
 - name: "Best Poster, IEEE VIS"
   description: 'For "Transformer Explainer: Interactive Learning of Text-Generative Models"'
