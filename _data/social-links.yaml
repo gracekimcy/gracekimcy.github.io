@@ -1,8 +1,8 @@
 - id: email
-  description: "gracekim3@gatech.edu"
+  description: "gckim@mit.edu"
   color: "#515151"
   class: "fas fa-envelope icon"
-  url: "mailto:gracekim3@gatech.edu"
+  url: "mailto:gckim@mit.edu"
   on-homepage: true
   cv-group: 1
 
