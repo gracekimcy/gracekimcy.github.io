@@ -8,7 +8,7 @@ jsarr:
 
 <h1 id="cv-title"><a href="{{ site.url }}">Grace C. Kim</a></h1>
 
-<p id="cv-subtitle"><i>4th-year BS/MS Student at Georgia Tech (<span class="cv-vis">HCI</span> + <span class="cv-ai">ML</span>)</i></p>
+<p id="cv-subtitle"><i>EECS/CSAIL PhD student at MIT (<span class="cv-vis">HCI</span> + <span class="cv-ai">ML</span>)</i></p>
 
 <div>
 My research focuses on improving the interpretability and trustworthiness of ML models. I develop <b><span class="cv-vis">interactive visualization tools</span></b> for visually analyzing model decision-making, and <b><span class="cv-ai">interpretability methods</span></b> for understanding and controlling model behavior.

@@ -9,7 +9,7 @@ title: Home
 			<img id="intro-image" src="/images/portrait.jpg"></div>
 		<div id="intro-title-text-wrapper">
 			<h1 id="intro-title">Hi, I'm Grace C. Kim</h1>
-			<div id="intro-subtitle">CS BS/MS Student at Georgia Tech</div>
+			<div id="intro-subtitle">EECS/CSAIL PhD Student at MIT</div>
 			<div id="intro-title-socials">
 				{% for link in site.data.social-links %}
 					{% if link.on-homepage == true %}
@@ -29,7 +29,7 @@ title: Home
 	</div>
 	<div style="height: 1rem"></div>
 	<div>
-		I am pursuing the 4-year BS/MS program at Georgia Tech, working with <a href="http://www.cc.gatech.edu/~dchau/">Polo Chau</a> and <a href="https://eilab.gatech.edu/mark-riedl.html">Mark Riedl</a>. I am fortunate to be supported by the <a href="https://stampsps.gatech.edu/">Stamps President’s Scholarship</a>.
+		I am pursuing a PhD in EECS at MIT, working with <a href="https://mitchellg.github.io/">Mitchell Gordon</a>. I am fortunate to be supported by the <a href="https://www.nsf.gov/funding/opportunities/grfp-nsf-graduate-research-fellowship-program">NSF Graduate Research Fellowship</a>.
 	</div>
 	<!-- <div style="height: 1rem"></div>
 	<div>

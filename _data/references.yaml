@@ -1,3 +1,12 @@
+- name: Mitchell Gordon
+  position: Professor
+  group: EECS/CSAIL
+  institution: Massachusetts Institute of Technology
+  location: Cambridge, MA, USA
+  phd: true
+  website: "mitchellg.github.io/"
+  url: "https://mitchellg.github.io/"
+
 - name: Polo Chau
   position: Professor
   group: School of Computational Science and Engineering

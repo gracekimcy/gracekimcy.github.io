@@ -1,8 +1,21 @@
+- institution: Massachusetts Institute of Technology
+  location: "Cambridge, MA"
+  position: Research Assistant
+  group: Interactive Alignment Lab
+  year: "Sep. 2026 — Present"
+  advisors: 
+    - Mitchell Gordon
+  description: "Study AI alignment and safety."
+  institution-url: http://mit.edu
+  group-url: https://mitchellg.github.io/
+  type: academic
+
+
 - institution: Georgia Institute of Technology
   location: "Atlanta, GA"
   position: Research Assistant
   group: Polo Club of Data Science
-  year: "Jan. 2024 — Present"
+  year: "Jan. 2024 — May 2026"
   advisors: 
     - Duen Horng (Polo) Chau
   description: "Study the intersection of machine learning, human-computer interaction, and data visualization."
@@ -14,7 +27,7 @@
   location: "Atlanta, GA"
   position: Research Assistant
   group: Entertainment Intelligence and Human-Centered AI Labs
-  year: "May 2025 — Present"
+  year: "May 2025 — May 2026"
   advisors:
     - Mark Riedl
   description: "Study explainable AI and mechanistic interpretability."

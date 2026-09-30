@@ -21,15 +21,15 @@ venue: IEEE Visualization Conference (VIS Poster). 2024., AAAI Conference on Art
 # year: 2024
 # url: /papers/transformer-explainer
 demo: https://poloclub.github.io/transformer-explainer/
-pdf: https://arxiv.org/abs/2408.04619
+pdf: https://arxiv.org/abs/2408.04619v1
 recording: https://youtu.be/ECR4oAwocjs
 code: https://github.com/poloclub/transformer-explainer
 code-star: 3.1k
 award: Best Poster
 stats:
-  - "410,000+ users across 180+ countries, 6,000+ GitHub stars"
+  - "860,000+ users across 180+ countries, 6,000+ GitHub stars"
   - "#1 paper of the day on Hugging Face"
-  - Taught at top universities (e.g., MIT, Columbia, University of Toronto) and in Georgia Tech CSE 6242 Data and Visual Analytics (250-300 students per semester)
+  - Taught at top universities (e.g., MIT, Stanford, University of Toronto, ETH Zurich) and in Georgia Tech CSE 6242 Data and Visual Analytics (250-300 students per semester)
 selected: false
 figure: /images/papers/24-transformer-explainer.gif
 image: /images/papers/24-transformer-explainer.gif

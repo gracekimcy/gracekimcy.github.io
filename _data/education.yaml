@@ -1,3 +1,12 @@
+- degree: "Ph.D. in Electrical Engineering & Computer Science"
+  institution: Massachusetts Institute of Technology
+  location: "Cambridge, MA"
+  advisor: Mitchell Gordon
+  years: "Sep. 2026 —"
+  institution-url: https://www.mit.edu/
+  awards:
+    - NSF Graduate Research Fellowship
+
 - degree: "M.S. in Computer Science"
   institution: Georgia Institute of Technology
   location: "Atlanta, GA"
@@ -7,7 +16,7 @@
   years-extra: "May 2026"
   institution-url: https://www.gatech.edu/
   description:
-    - Concentration in Machine Learning # "GPA: 4.00/4.00"
+    - "Concentration in Machine Learning, GPA: 4.00/4.00"
   awards:
     - Stamps President's Scholarship
 
@@ -22,7 +31,7 @@
   # thesis-link: ../projects/3d-printing-the-trefoil-knot-and-its-pages/
   # thesis-pdf: ../papers/fred-hohman-undergrad-thesis.pdf
   description: 
-    - "Concentrations in Artificial Intelligence and Theory, Overall GPA: 3.9/4.0, Highest Honors"
+    - "Concentrations in Artificial Intelligence and Theory, GPA: 3.9/4.0, Highest Honors"
   institution-url: https://www.gatech.edu/
   awards:
     - Stamps President's Scholarship
