@@ -1,5 +1,5 @@
 ## Hi there 👋
-I am Grace Kim, a CS BS/MS student [@Gatech](https://www.cc.gatech.edu/)    
+I am Grace Kim, an EECS PhD student [@MIT](https://www.csail.mit.edu/)    
 
 ### Quick start
 ``` bash

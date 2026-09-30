@@ -27,7 +27,7 @@ code: https://github.com/poloclub/transformer-explainer
 code-star: 3.1k
 award: Best Poster
 stats:
-  - "860,000+ users across 180+ countries, 6,000+ GitHub stars"
+  - "860,000+ users across 180+ countries, 8,800+ GitHub stars"
   - "#1 paper of the day on Hugging Face"
   - Taught at top universities (e.g., MIT, Stanford, University of Toronto, ETH Zurich) and in Georgia Tech CSE 6242 Data and Visual Analytics (250-300 students per semester)
 selected: false
